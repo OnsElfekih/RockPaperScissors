@@ -16,5 +16,3 @@
 3.Run the script with the following command:
    ```bash
 python RockPaperScissors.py
-
-
